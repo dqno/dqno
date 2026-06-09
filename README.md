@@ -16,8 +16,9 @@
 
 <p align="center">
 
-<p align="center">
-<img src="stella-5555.gif">
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/a0c5a809-a570-4e21-b156-78223f3cd359" controls autoplay loop width="700"></video>
+</div>
 
 <p align="center">
 <img src="https://i.postimg.cc/15HsJ7Yk/IMG_3556.gif">
