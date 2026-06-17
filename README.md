@@ -9,7 +9,7 @@
     <img src="IMG_8527.gif" alt="ata">
     <a href="https://dlnos.straw.page/">
     <img src="IMG_8526.gif" alt="straw">
-      <a href="https://rentry.co/dlnos">
+      <a href="https://rentry.co/dqno">
     <img src="IMG_8528.gif" alt="rentry">
       </a>
 
