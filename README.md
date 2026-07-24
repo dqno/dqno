@@ -2,7 +2,7 @@
 <img src="https://i.postimg.cc/Fz7XHqkC/91190B57-2547-4727-90D1-7FCFCF65E84B.gif">
 
 <p align="center">
-  <a href="https://dlnos.atabook.org/">
+  <a href="https://dqno.atabook.org/">
     <img src="IMG_8527.gif" alt="ata">
     <a href="https://dlnos.straw.page/">
     <img src="IMG_8526.gif" alt="straw">
