@@ -1,6 +1,3 @@
-<p align="center"> 
-  $\color{rgb(255, 181, 0)}{\textsf{𝘸𝘢𝘴 @𝘋𝘭𝘕𝘖𝘚 !}}$
-
 <p align="center">
 <img src="https://i.postimg.cc/Fz7XHqkC/91190B57-2547-4727-90D1-7FCFCF65E84B.gif">
 
